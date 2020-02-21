@@ -1,6 +1,7 @@
 #WebDev2-Midterm-Exam
 
-Part 1 - Multiple Choice
+<h1>Part 1 - Multiple Choice</h1>
+
 1.b
 2.c
 3.a
@@ -12,7 +13,7 @@ Part 1 - Multiple Choice
 9.c
 10.b
 
-Part 2 - True or False
+<h1>Part 2 - True or False</h1>
 
 1.true
 2.true
